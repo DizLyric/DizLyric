@@ -50,6 +50,6 @@
   <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="./images/icons/tools/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
 </div>
