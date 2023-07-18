@@ -27,9 +27,7 @@
       <img src="./images/icons/social/Instagram.svg" width="40" height="40" title="Instagram" alt="Instagram" />
     </a>
   </div>
-
----
-
+  
 ---
 
 ### 💻 Технологии:
