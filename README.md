@@ -18,16 +18,16 @@
 
 <div>
     <a href="https://t.me/DizLyric" target="_blank">
-      <img src="./images/icons/social/Telegram.svg" width="40" height="40" title="Telegram" alt="Telegram" />
+      <img src="./images/icons/social/telegram.svg" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
     <a href="https://vk.com/DizLyric" target="_blank">
-      <img src="./images/icons/social/VK.svg" width="40" height="40" title="VK" alt="VK.com" />
+      <img src="./images/icons/social/vk.svg" width="40" height="40" title="VK" alt="VK.com" />
     </a>
     <a href="https://instagram.com/DizLyric" target="_blank">
-      <img src="./images/icons/social/Instagram.svg" width="40" height="40" title="Instagram" alt="Instagram" />
+      <img src="./images/icons/social/instagram.svg" width="40" height="40" title="Instagram" alt="Instagram" />
     </a>
   </div>
-  
+
 ---
 
 ### 💻 Технологии:
@@ -50,6 +50,6 @@
   <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/GitHub.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
+  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
   <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
 </div>
