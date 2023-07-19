@@ -32,24 +32,24 @@
 
 ### 💻 Технологии:
 <div>
-  <img src="./images/icons/technologies/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/vuejs.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/php.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/redbeanphp.png" title="RedBeanPHP" alt="RedBeanPHP" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="./images/icons/technologies/html5.svg" title="HTML5" alt="HTML5" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/css3.svg" title="CSS3" alt="CSS3" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/javascript.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/vuejs.svg" title="VueJS" alt="VueJS" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/nodejs.svg" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/php.svg" title="PHP" alt="PHP" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/redbeanphp.png" title="RedBeanPHP" alt="RedBeanPHP" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>&nbsp
+  <img src="./images/icons/technologies/mysql.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp
 </div>
 
 ---
 
 ### 🛠 Инструменты:
 <div>
-  <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
+  <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="60" height="60"/>&nbsp
+  <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="60" height="60"/>&nbsp
+  <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp
+  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="60" height="60"/>&nbsp
+  <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="60" height="60"/>&nbsp
 </div>
