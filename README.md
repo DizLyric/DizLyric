@@ -9,7 +9,7 @@
 За время работы в колледже принимал участие как Эксперт в чемпионате профессионального мастерства WordldSkills Russia и Абилимпикс.
 
 <p align="center">
- <img style="border-radius: 15px" width="80%" src="./images/JS.gif" alt="JS"/>
+ <img width="80%" src="./images/JS.gif" alt="JS"/>
 </p>
 
 ---
