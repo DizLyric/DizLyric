@@ -18,7 +18,7 @@
 
 <div>
     <a href="https://t.me/DizLyric" target="_blank">
-      <img src="./images/icons/social/telegram.svg" width="40" height="40" title="Telegram" alt="Telegram" />
+      <img src="./images/icons/social/instagram.svg" width="40" height="40" title="Telegram" alt="Telegram" />
     </a>
     <a href="https://vk.com/DizLyric" target="_blank">
       <img src="./images/icons/social/vk.svg" width="40" height="40" title="VK" alt="VK.com" />
