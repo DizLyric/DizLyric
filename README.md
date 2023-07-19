@@ -18,13 +18,13 @@
 
 <div>
     <a href="https://t.me/DizLyric" target="_blank">
-      <img src="./images/icons/social/telegram.svg" width="40" height="40" title="Telegram" alt="Telegram" />
+      <img src="./images/icons/social/telegram.png" width="60" height="60" title="Telegram" alt="Telegram" />
     </a>
     <a href="https://vk.com/DizLyric" target="_blank">
-      <img src="./images/icons/social/vk.svg" width="40" height="40" title="VK" alt="VK.com" />
+      <img src="./images/icons/social/vk.png" width="60" height="60" title="VK" alt="VK.com" />
     </a>
     <a href="https://instagram.com/DizLyric" target="_blank">
-      <img src="./images/icons/social/instagram.svg" width="40" height="40" title="Instagram" alt="Instagram" />
+      <img src="./images/icons/social/instagram.png" width="60" height="60" title="Instagram" alt="Instagram" />
     </a>
   </div>
 
@@ -32,24 +32,24 @@
 
 ### 💻 Технологии:
 <div>
-  <img src="./images/icons/technologies/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/vuejs.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/php.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/redbeanphp.png" title="RedBeanPHP" alt="RedBeanPHP" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp
-  <img src="./images/icons/technologies/mysql.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp
+  <img src="./images/icons/technologies/html5.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/css3.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/javascript.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/vuejs.svg" title="VueJS" alt="VueJS" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/nodejs.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/php.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/redbeanphp.png" title="RedBeanPHP" alt="RedBeanPHP" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>&nbsp
+  <img src="./images/icons/technologies/mysql.svg" title="MySQL" alt="MySQL" width="50" height="50"/>&nbsp
 </div>
 
 ---
 
 ### 🛠 Инструменты:
 <div>
-  <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp
-  <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp
+  <img src="./images/icons/tools/vscode.svg" title="VS Code" alt="VSCode" width="50" height="50"/>&nbsp
+  <img src="./images/icons/tools/photoshop.svg" title="Photoshop" alt="Photoshop" width="50" height="50"/>&nbsp
+  <img src="./images/icons/tools/figma.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp
+  <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp
+  <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>&nbsp
 </div>
