@@ -56,4 +56,4 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DizLyric&theme=juicyfresh&no-bg=true&rank=-SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DizLyric&theme=juicyfresh&no-bg=true&rank=-SECRET,-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
