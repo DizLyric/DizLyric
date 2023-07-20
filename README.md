@@ -53,3 +53,7 @@
   <img src="./images/icons/tools/github.svg" title="GitHub" alt="GitHub" width="50" height="50"/>&nbsp
   <img src="./images/icons/tools/filezilla.svg" title="FileZilla" alt="FileZilla" width="50" height="50"/>&nbsp
 </div>
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=DizLyric&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
