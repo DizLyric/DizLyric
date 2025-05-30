@@ -1,5 +1,4 @@
 <p align="center">
-  <img style="border-radius: 15px" width="80%" src="./images/JS.gif" alt="JS"/>
   <img width="80%" src="./images/JS.gif" alt="JS"/>
 </p>
 
