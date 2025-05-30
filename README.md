@@ -42,10 +42,6 @@
 - 💡 Интересуюсь созданием сложных SPA-приложений
 - 🎯 Цель: стать профессиональным Fullstack-разработчиком
 
-## 🏆 Мои GitHub трофеи
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DizLytic&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Как связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DizLyric)
