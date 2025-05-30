@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF7D33&width=435&lines=Frontend+разработчик;Vue%2FNuxt+энтузиаст;Люблю+чистый+код;Создаю+крутые+интерфейсы" alt="Анимированное приветствие">
+  <img style="border-radius: 15px" width="80%" src="./images/JS.gif" alt="JS"/>
+  <img width="80%" src="./images/JS.gif" alt="JS"/>
 </p>
 
 # Привет, меня зовут Артем! 👋
